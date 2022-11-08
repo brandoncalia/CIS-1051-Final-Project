@@ -24,8 +24,8 @@ N/A
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-* A displayed list of top 3 artists of the last week
-* A displayed list of top 3 songs of the last week
+* A displayed list of my top 3 artists of the last week
+* A displayed list of my top 3 songs of the last week
 * A weekly refresh
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
