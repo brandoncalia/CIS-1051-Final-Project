@@ -10,7 +10,7 @@ A Raspberry Pi interface that data on my weekly Spotify listening
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
-The software will be a GUI that is displayed on the Pi 24/7, showing the cover art of my top songs and images for my top 3 artists. Each week it should refresh (and display a refresh/loading screen in this process). The script can just be run directly from the Pi and won't need any further setup. Ideally, I would store each week's data in some kind of file or database. A CSV on the easier end, or a SQL configuration on the more advanced end. 
+The software will be a GUI that is displayed on the Pi 24/7, showing my top 3 songs and top 3 artists of the last week. Each week it should refresh (and display a refresh/loading screen in this process). The script can just be run directly from the Pi and won't need any further setup. Ideally, I would store each week's data in some kind of file or database. A CSV on the easier end, or a SQL configuration on the more advanced end. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
