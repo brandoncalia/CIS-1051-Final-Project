@@ -6,7 +6,7 @@ PiTunes
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A Raspberry Pi interface that displays my top 3 artists and top 3 songs of the last week on Spotify
+A Raspberry Pi interface that data on my weekly Spotify listening
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
