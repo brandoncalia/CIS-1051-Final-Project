@@ -9,7 +9,7 @@ The GUI displays your top three artists and top three songs of the last week (re
 
 <img width="600" alt="interface" src="https://user-images.githubusercontent.com/41372799/204268602-99e240a8-bf9b-480f-8997-af0d93ca844d.jpg"> <img width="600" alt="interface" src="https://user-images.githubusercontent.com/41372799/204269091-bd15431c-787f-4078-8942-9dc08c8101f5.jpg">
 
-### GUI
+### Interface
 
 <img width="700" alt="interface" src="https://user-images.githubusercontent.com/41372799/204553427-38bc9abc-2863-4291-9397-f3e7b2acc661.JPG">
 
@@ -31,11 +31,12 @@ The project is two scripts (Tkinter windows) that run simultaneously. This is so
 
 1. Enter your keys/passwords/database info into the code
 2. Ensure your file path is correctly setup - `PiTunes.py` and `refresh.py` should be contained within the main folder, along with an 'assets' folder containing the necessary images
-3. Open a terminal from the folder and run:
+3. Install the necessary packages
+4. Open a terminal from the folder and run:
     * `python refresh.py`
-4. Tab out and open a separate terminal to run:
+5. Tab out and open a separate terminal to run:
     * `python PiTunes.py`
-5. Tab the windows such that gui is laid over the refresh window 
+6. Tab the windows such that gui is laid over the refresh window 
 
 
 ## :anger: Challenges
