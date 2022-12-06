@@ -3,6 +3,8 @@ PiTunes is Raspberry Pi interface to display data on your Spotify listening.
   
 The GUI displays your top three artists and top three songs of the last week (refreshing weekly). The data is then stored in a MySQL database (of your configuration) to store listening statistics over time. LastFM and Spotify APIs are used in tandem to retrieve the necessary info.  
 
+[Link to video](https://www.youtube.com/watch?v=nnnjQxbq6hU)
+
 ## :high_brightness: Images
 
 ### Implementation
